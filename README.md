@@ -18,11 +18,12 @@
 <div align="center" color="white">
 <h1>Hi there👋🏻 Welcome to my profile!</h1>
 <h3>I'm Andrea, a Fullstack developer specialized in Frontend 👩🏻‍💻. I'm passionate about working on web projects and have gained experience in various technologies.</h3>
-</div>
 <br>
 <h3>I work on different projects for various clients, ensuring innovative and customized technological solutions. </h3>
 <br>
 <br>
+</div>
+
 
 On the **Frontend**, I work with technologies like:
 <br>
