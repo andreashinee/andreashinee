@@ -23,11 +23,11 @@
 <h3>I work on different projects for various clients, ensuring innovative and customized technological solutions. </h3>
 <br>
 <br>
-<div>
-- On the frontend, I work with technologies like:
+
+On the **Frontend**, I work with technologies like:
 <br>
 <br>
-</div>
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript"  width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript"  width="50" height="50"/>&nbsp;
@@ -43,11 +43,11 @@
   <br>
   <br>
 </div>
-<div>
-- On the backend, I've used technologies like:
+
+On the **Backend**, I've used technologies like:
 <br>
 <br>
-</div>
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="50" height="50"/>&nbsp;
@@ -55,8 +55,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB"  width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker"  width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL"  width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS"  width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git"  width="50" height="50"/>
   <br>
   <br>
   <br>
@@ -72,7 +70,7 @@ I manage repositories on **GitLab**, **AWS** and **Bitbucket** for version contr
 
 <br>
 
-In addition to my passion for programming, I have a keen interest in photography. I have basic skills in using Photoshop and Lightroom to edit images and give them a special touch.
+In addition to my passion for programming, I have a keen interest in photography. I have basic skills in using **Photoshop** and **Lightroom** to edit images and give them a special touch.
 <br>
 
 <div align="center">
@@ -80,7 +78,7 @@ In addition to my passion for programming, I have a keen interest in photography
 </div>
 <br>
 
-I'm always looking to improve my skills and knowledge. Currently, I'm pursuing a higher degree in multiplatform application development to further expand my capabilities while working as a developer.
+I'm always looking to improve my skills and knowledge. Currently, I'm pursuing a **higher degree in multiplatform application development** to further expand my capabilities while working as a developer.
 <br>
 <div align="center">
   <img src="https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif" width="200"/>
