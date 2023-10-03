@@ -21,9 +21,12 @@
 </div>
 <br>
 <h3>I work on different projects for various clients, ensuring innovative and customized technological solutions. </h3>
-
+<br>
+<br>
 <div>
-<h4>On the backend, I've used technologies like:</h4>
+- On the frontend, I work with technologies like:
+<br>
+<br>
 </div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript"  width="50" height="50"/>&nbsp;
@@ -40,7 +43,9 @@
 </div>
 <br>
 <div>
-<h4>On the frontend, I work with technologies like:</h4
+- On the backend, I've used technologies like:
+<br>
+<br>
 </div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
