@@ -15,7 +15,7 @@
 </div>
   
 <br>
-<div align="center">
+<div align="center" color="white">
 <h1>Hi there👋🏻 Welcome to my profile!</h1>
 <h3>I'm Andrea, a Fullstack developer specialized in Frontend 👩🏻‍💻. I'm passionate about working on web projects and have gained experience in various technologies.</h3>
 </div>
