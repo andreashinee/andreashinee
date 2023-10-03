@@ -39,9 +39,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS"  width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android"  width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express"  width="50" height="50"/>&nbsp;
-  
+  <br>
+  <br>
+  <br>
 </div>
-<br>
 <div>
 - On the backend, I've used technologies like:
 <br>
